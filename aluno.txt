@@ -1,0 +1,9 @@
+8
+234 2023 BCC 21 Ana Paula Silva
+723 2023 BCC 22 Carlos Andrade
+345 2023 BSI 20 Roberto Santos
+346 2023 BSI 21 Patricia Lima
+567 2023 BEC 23 Fernando Costa
+678 2023 ADS 22 Mariana Souza
+789 2023 GTI 24 Lucas Mendes
+456 2023 BSI 23 Julia Pereira

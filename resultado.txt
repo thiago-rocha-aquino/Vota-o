@@ -1,0 +1,14 @@
+TC vencedor
+Codigo: 45
+Titulo: Simulacao de Software
+Aluno: Ana Paula Silva
+Depto aluno: BCC
+Orientador: Maria Santos
+Depto orientador: BCC
+
+Eleitores que votaram
+777.459.123-02 45
+393.486.442-20 12
+524.740.032-15 45
+
+Eleitores que nao votaram
